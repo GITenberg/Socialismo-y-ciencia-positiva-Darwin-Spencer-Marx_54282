@@ -1,16 +1,21 @@
 _repo: Socialismo-y-ciencia-positiva-Darwin-Spencer-Marx_54282
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Payró, Roberto
     gutenberg_agent_id: '47801'
     url: http://www.gutenberg.org/2009/agents/47801
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ferri, Enrique
     gutenberg_agent_id: '47800'
     url: http://www.gutenberg.org/2009/agents/47800
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54282#Socialismo-y-ciencia-positiva-Darwin-Spencer-Marx
 gutenberg_issued: '2017-03-04'
 gutenberg_type: Text
 identifiers:
